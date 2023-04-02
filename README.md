@@ -18,7 +18,7 @@
 
 ## 技术栈
 
-* 前端框架：Vue2 & Vue3 & React18 & 及相关生态
+* 前端框架及上层框架：Vue2 & Vue3 & React18 & 及相关生态 & **TODO:Nuxt** & **TODO:Next** & **TODO:Umi** & **TODO:qiankun**
 * 服务端框架：Express & **TODO:eggs** & **TODO:koa**
 * 编程语言：Javascript & Typescript & HTML & CSS
 * 构建工具：Webpack & Vite & Rollup
