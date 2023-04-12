@@ -1,6 +1,6 @@
 # 项目
 
-* 字节青训营React组件库，基于pnpm的monorepo包管理实践（**TODO:引申pnpm相关，monorepo相关，发布相关**）
+* 字节青训营React组件库，基于pnpm的monorepo包管理实践，组件亮点：menu——递归组件、配置型组件，符合开闭原则（**TODO:引申pnpm相关，monorepo相关，发布相关**）
 * 基于canvas的NwafulPaper壁纸生成器（递归渲染，原理：提供给递归组件提供递归渲染对象）
 * **TODO**：移动端，个人记账本，这个项目实现登陆注册
 * **TODO**：mini-vue3
@@ -22,10 +22,8 @@
 * 服务端框架：Express & **TODO:eggs** & **TODO:koa**
 * 编程语言：Javascript & Typescript & HTML & CSS
 * 构建工具：Webpack & Vite & Rollup
-* 工程化架构：monorepo & **TODO:SSR** & **TODO:微前端**
+* 工程化架构：monorepo & **TODO:SSR** & **TODO:微前端** & **TODO:wx小程序——双线程架构（理论）**
 * 源码阅读：**TODO:状态库——Redux**
 * 工程化：熟练进行git合作开发
-
-
 
 # 实习经历
