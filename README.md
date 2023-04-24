@@ -6,6 +6,10 @@
 * **TODO**：mini-vue3：（话术：参考vue3实现了响应式与运行时，准备引入react的`{}`进行编译时的模版解析）
 * **TODO**：ssr框架 or 以此为基础的个人文章站点（提供文章分类、搜索功能，依托github的README进行展示，这个项目无需实现登陆注册，就是服务于个人的），重点还是在于ssr，以及ssr的性能优化考量，以及ssr的降级
 
+  别人的参考博客：https://yingchenit.github.io/ssr/react/#%E5%89%8D%E8%A8%80
+
+  https://blog.51cto.com/lengyuexin/5218628#_228
+
 
 
 # 个人技能树
